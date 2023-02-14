@@ -1,0 +1,57 @@
+.center
+{
+    text-align: center;
+    border: 3px solid darkblue;
+    border-radius: 10px;
+    padding: 10px;
+}
+
+iframe, img, kbd
+{
+    border-radius: 10px;
+}
+
+iframe:hover, img:hover, kbd:hover
+{
+    transform: scale(0.9);
+}
+
+html
+{
+    scroll-behavior: smooth;
+    background-color: bisque;
+    font-family: cursive;
+}
+
+.travel_mainDiv
+{
+    border: 1px solid lightgray;
+}
+
+.travel_mainDiv img
+{
+    width: 100%;
+}
+
+.travel_mainDiv h5, .travel_mainDiv p
+{
+    margin: 20px;
+}
+
+.movie_head
+{
+    font-size: 20px;
+    padding: 6px 22px;
+    border-radius: 10px;
+    margin-bottom: 15px;
+}
+
+.movie_head i
+{
+    float: right;
+}
+
+.achievement_text span
+{
+    color: orange;
+}
